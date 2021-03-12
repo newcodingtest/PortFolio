@@ -11,14 +11,14 @@
 
 ## 기술스택
  + 프론트엔드
-  - HTML, CSS, javascript : 벡엔드로 구현한 것을 프론트 엔드로 보여줄 수 있음
+   - HTML, CSS, javascript : 벡엔드로 구현한 것을 프론트 엔드로 보여줄 수 있음
 
  + 벡엔드
-  - JAVA(SPRING) : JSP 프로젝트를 마치고 SPRING 공부중
-  - ORACLE : 간단한 쿼리 작성 가능
+   - JAVA(SPRING) : JSP 프로젝트를 마치고 SPRING 공부중
+   - ORACLE : 간단한 쿼리 작성 가능
   
   + 기타
-   - GIT : 소스 버젼관리
+    - GIT : 소스 버젼관리
 
 ## 프로젝트
 
