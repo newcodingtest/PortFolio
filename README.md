@@ -34,6 +34,6 @@
      + ADMIN에서 GUSET 들의 상담문의 확인 및 답변, 홈페이지의 회원정보 리스트 관리 기능
 
 ## 외부활동
- + 논문게재
+ + <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP13263965&dbt=NPAP">ICS 공격 방법에 관한 연구 공격정보처리학회 논문 게제</a>논문게재
  + 보안동아리 활동
  + Tistory 
