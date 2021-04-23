@@ -37,5 +37,5 @@
  + <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP13263965&dbt=NPAP">"ICS 공격 방법에 관한 연구"(2019)</a> 정보처리학회(KIPS) 논문 게제
  + <a href="http://www.happyhaksul.com/ksdata/3860627">"악성코드 파일기반 탐지방법에 대한 연구"(2020)</a> 정보처리학회(KIPS) 논문 게제 
  + 보안동아리 활동
- + Tistory 
+ + Tistory(https://pulpul8282.tistory.com/) 
  + 청년 취업 아카데미 Web 서비스 개발자 과정 20.12~21.02 최우수상
