@@ -22,7 +22,7 @@
 
 ## 주요 프로젝트
 
- + 온라인 PC 판매 사이트(링크)
+ + 온라인 PC 판매 사이트(https://github.com/newcodingtest/JSP-Servlet_Website)
    - 담당 : DB 설계 및 권한정보개발(ADMIN,회원가입,로그인,주문정보,상담문의....), 갤러리 게시판 개발
    - 기술 스택 : JAVA(JSP), ORACLE, HTML, CSS
    - 기간 : 21.01~ 21.02(2주일)
