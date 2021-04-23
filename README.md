@@ -39,3 +39,5 @@
  + 보안동아리 활동
  + Tistory(https://pulpul8282.tistory.com/) 
  + 청년 취업 아카데미 Web 서비스 개발자 과정 20.12~21.02 최우수상
+ ![최우수1](https://user-images.githubusercontent.com/57785267/115849248-aa3e7380-a45f-11eb-998f-7f412db24f40.jpg)
+![최우수2](https://user-images.githubusercontent.com/57785267/115849288-b4607200-a45f-11eb-87e3-a03f8e9bcac1.jpg)
